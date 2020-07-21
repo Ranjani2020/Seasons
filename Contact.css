@@ -1,0 +1,25 @@
+header {
+    color: rgb(137, 202, 245);
+    font-style: italic;
+    font-size: 30px;
+}
+h5 { color: rgb(40, 9, 211);
+    font-style: italic;
+}
+body {
+    background-image: url(https://cdn.reallancastercounty.com/2012/05/Screen-Shot-2015-12-03-at-8.23.43-AM-1.png); 
+      background-size: 1500px 800px;
+      background-repeat: no-repeat;
+}
+h2 { color: rgb(243, 26, 196);
+font-size: 40px;
+}
+caption { color: whitesmoke; }
+   th { color: gainsboro; } 
+   tr { color: gainsboro; } 
+    
+table caption {color: lightseagreen; }
+tr { color: limegreen; 
+font-style: italic;}
+th { color: limegreen;
+font-style: italic; }

@@ -1,0 +1,24 @@
+h5
+{
+    color: sienna;
+}
+h3{ color: teal;
+}
+body {
+    background-image: url(https://cdn.wallpapersafari.com/13/21/7NZwGi.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 600px;
+}
+header { color: rgb(14, 180, 22);
+}
+h2 {color: rgb(14, 180, 22);
+font-style: italic;
+}
+caption { color: rgb(72, 62, 117);
+    font-style: italic;
+    font-size: 20px;
+}
+table { border: 1px solid gray;
+    font-size: 20px;
+    color: indigo;
+}

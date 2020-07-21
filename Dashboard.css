@@ -1,0 +1,18 @@
+header { color: rgb(235, 19, 19);
+font-style: italic;
+font-size: 30px;
+}
+h5 { color: gainsboro;
+    font-style: italic; 
+}
+h3 { color: indianred;
+    font-style: italic; 
+}
+ul { 
+    font-style: italic;
+    color: lightblue;
+}
+body {
+    background-image: url(https://naomilovedesigns.com/wp-content/uploads/2018/06/il_fullxfull.1330072666_dp1f.jpg);
+    background-size: cover;
+}
